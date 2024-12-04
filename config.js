@@ -1,4 +1,4 @@
-//davidthegod
+//richardkilunju
 
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
@@ -9,10 +9,10 @@ global.nomerowner = ["254754641980"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
+global.skizo = 'richard'
 global.casterix = 'DeeCeeXxx'
 //watermark 
-global.packname = '*DAVID CYRIL*'
+global.packname = '*richard*'
 global.author = 'QUEEN_ANITA-V3'
 
 // cpanel 
